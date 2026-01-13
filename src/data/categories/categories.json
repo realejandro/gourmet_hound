@@ -1,0 +1,42 @@
+ [ 
+  {
+    "title":"Gourmet Pantry",
+    "url": "/assets/images/categories/ambient_2.jpeg",
+    "description": "Great selection of premium, shelf-stable ingredients and delicacies to elevate your everyday coocking."
+  }, 
+  {
+    "title":"Spirits",
+    "url": "/assets/images/categories/spirits_2.jpeg",
+    "description": "A refined collection of premium liquors and craft spirits from around the world."
+  }, 
+  {
+    "title":"Frozen",
+    "url": "/assets/images/categories/frozen.jpeg",
+    "description": "Deliciously chill treats — artisanal ice creams and mochi for every sweet craving."
+  }, 
+  {
+    "title":"Charcuterie & Cheeses",
+    "url": "/assets/images/categories/cheese.jpg",
+    "description": "A handpicked selection of Spanish, Italian, and English cured meats and cheeses — rich in tradition and flavor."
+  }, 
+  {
+    "title":"Bread",
+    "url": "/assets/images/categories/bread_2.jpg",
+    "description": "Artisan sourdough loaves, naturally leavened and baked to perfection for rich, complex flavor."
+  }, 
+  {
+    "title":"Wine",
+    "url": "/assets/images/categories/wines.jpg",
+    "description": "A thoughtfully curated wine collection, highlighting Italian and French classics, with global selections to suit every palate."
+  }, 
+  {
+    "title":"Meats & Specials",
+    "url": "/assets/images/categories/meat_2.jpg",
+    "description": "Premium cuts and seasonal specialties — carefully selected by our supplier for flavor and freshness."
+  },  
+  {
+    "title":"Coffee counter",
+    "url": "/assets/images/categories/coffee_2.jpeg",
+    "description": "Freshly brewed coffees and specialty blends crafted to energize your day."
+  }
+]
