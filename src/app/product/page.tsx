@@ -1,8 +1,13 @@
+import BasicLayout from '@/layouts/basic/BasicLayout'
 import React from 'react'
 
 const ProductPage = () => {
   return (
-    <div>ProductPage</div>
+    <BasicLayout>
+        <div>
+            <h1>ProductPage</h1>
+        </div>
+    </BasicLayout>
   )
 }
 
