@@ -9,7 +9,7 @@ export const SectionTotal = () => {
         <div className="flex w-full">
             <div className="relative w-[100%] h-[75vh]">
                 <Image
-                    src="/assets/images/total/senction_total.jpeg"
+                    src="/assets/images/total/section_total.jpeg"
                     alt="info"
                     fill
                 />
