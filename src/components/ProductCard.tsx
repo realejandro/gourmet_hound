@@ -12,6 +12,7 @@ const ProductCard = ( { title, urlImg, description  } : { title: string, urlImg:
           alt= "products"
           fill
           style={{ objectFit: "cover"}}
+          unoptimized={true}
         />
       </figure>
       <div className="card-body items-center text-center">
